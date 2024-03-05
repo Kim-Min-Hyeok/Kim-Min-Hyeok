@@ -7,7 +7,7 @@ Phone: 010-9429-8396
 E-mail: kkmin11203@gmail.com
 
 ## My Stats
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Min-Hyeok)](https://github.com/Kim-Min-Hyeok/github-readme-stats)
 
 ## Stacks
 <div align=center> 
