@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/Kim-Min-Hyeok/Kim-Min-Hyeok/assets/61306657/b6969a8b-a1f8-414b-92f6-a5acf643bb01)
 
 <!--
 **Kim-Min-Hyeok/Kim-Min-Hyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
