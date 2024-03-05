@@ -1,6 +1,5 @@
-[![image](https://github.com/Kim-Min-Hyeok/Kim-Min-Hyeok/assets/61306657/b6969a8b-a1f8-414b-92f6-a5acf643bb01)
-](https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg)
-<!--
+https://i.pinimg.com/564x/5e/d5/8c/5ed58cbf79e583bfbab7016077008e28.jpg![image](https://github.com/Kim-Min-Hyeok/Kim-Min-Hyeok/assets/61306657/8be41a5f-5aa3-45ba-a2c6-51fc331240ea)
+
 **Kim-Min-Hyeok/Kim-Min-Hyeok** is a ✨ _special_ ✨ repository because![Uploading image.png…]()
  its `README.md` (this file) appears on your GitHub profile.
 
