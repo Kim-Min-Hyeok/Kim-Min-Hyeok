@@ -6,7 +6,10 @@
 Phone: 010-9429-8396
 E-mail: kkmin11203@gmail.com
 
-## Studying
+## My Stats
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+
+## Stacks
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
