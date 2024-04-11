@@ -36,4 +36,4 @@ E-mail: kkmin11203@gmail.com
 
 ## My Stats
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Min-Hyeok)](https://github.com/Kim-Min-Hyeok/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Min-Hyeok&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Min-Hyeok&layout=compact&theme=tokyonight)
